@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushLine", "PushLine\PushLine.csproj", "{455BC5C2-2CD7-431D-ACF9-F95FFDAAE02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455BC5C2-2CD7-431D-ACF9-F95FFDAAE02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455BC5C2-2CD7-431D-ACF9-F95FFDAAE02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455BC5C2-2CD7-431D-ACF9-F95FFDAAE02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455BC5C2-2CD7-431D-ACF9-F95FFDAAE02F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
